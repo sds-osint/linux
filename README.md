@@ -10,3 +10,8 @@ Make it executable:
 ```bash
 chmod +x install.sh
 ```
+
+Run it:
+```bash
+./install.sh
+```
