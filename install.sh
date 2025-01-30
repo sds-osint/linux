@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt install git
+
 # Clone the repository if it doesn't exist
 if [ ! -d "$HOME/linux" ]; then
     echo "Cloning the repository..."
